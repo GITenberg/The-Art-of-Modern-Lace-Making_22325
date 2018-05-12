@@ -9,6 +9,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22325#The-Art-of-Modern-Lace-Making
 gutenberg_bookshelf:
 - Crafts
 - Technology
