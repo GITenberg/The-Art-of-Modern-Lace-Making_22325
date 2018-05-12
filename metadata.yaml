@@ -1,0 +1,28 @@
+_repo: The-Art-of-Modern-Lace-Making_22325
+_version: 0.1.0
+contributor:
+  publisher_contributor:
+    agent_name: Butterick Publishing Company
+    gutenberg_agent_id: '25261'
+    url: http://www.gutenberg.org/2009/agents/25261
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf:
+- Crafts
+- Technology
+gutenberg_issued: '2007-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22325'
+  lccn: 08006459
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lace and lace making'
+- !lcc 'TT'
+title: The Art of Modern Lace Making
+url: http://www.gutenberg.org/ebooks/22325
